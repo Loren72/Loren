@@ -1,0 +1,2 @@
+# Loren
+Verilog truth table
